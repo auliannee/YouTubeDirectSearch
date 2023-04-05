@@ -1,0 +1,13 @@
+html {
+    height: 100%;
+}
+
+body {
+    padding: 10px;
+    text-align: center;
+    height: 100%;
+}
+
+.row {
+    margin: auto;
+}
